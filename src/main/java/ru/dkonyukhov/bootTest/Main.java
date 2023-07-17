@@ -6,6 +6,7 @@ public class Main {
         System.out.println("test3");
         Class1.say();
         System.out.println("pass1");
+        System.out.println("pass2");
     }
 }
 
