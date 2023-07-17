@@ -7,6 +7,7 @@ public class Main {
         Class1.say();
         System.out.println("pass1");
         System.out.println("pass2");
+        System.out.println("pass3");
     }
 }
 
