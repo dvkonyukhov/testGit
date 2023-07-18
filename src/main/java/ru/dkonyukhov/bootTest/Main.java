@@ -7,6 +7,8 @@ public class Main {
         System.out.println("psw");
         System.out.println("psw1");
         System.out.println("psw2");
+        System.out.println("psw3");
+        System.out.println("psw4");
     }
 }
 
